@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Satire upon the town address'd to a friend in the country disswading him from coming up.</title>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62206</idno><idno type="EEBO-CITATION">9959581</idno>
+  <idno type="VID">44398</idno>
+  <idno type="EEBO-PROQUEST">2264199734</idno>
+  
+            <idno type="STC">Wing S721</idno>
+            <idno type="STC">ESTC R27568</idno>
+            <idno type="OCLC">09959581</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44398)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1366:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Satire upon the town address'd to a friend in the country disswading him from coming up.</title>
+               </titleStmt>
+               <extent>[2], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd, Decemb. 12, 1692."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">City and town life --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44398:1"/>
+            <pb facs="tcp:44398:1"/>
+            <p>A SATIRE Upon the TOWN.</p>
+            <p>Address'd to a FRIEND in the COUNTRY, Disswading him from Coming up.</p>
+            <q>
+               <lg>
+                  <l>—Similes{que} meorum</l>
+                  <l>Mille die versas deduci posse—<bibl>
+                        <hi>Horat. Sat. I. Lib. 2.</hi>
+                     </bibl>
+                  </l>
+               </lg>
+               <lg>
+                  <l>—Si quis</l>
+                  <l>Opprobriis dignum laceravit, integer ipse;</l>
+                  <l>Solventur risu tabulae— <bibl>
+                        <hi>ibid.</hi>
+                     </bibl>
+                  </l>
+               </lg>
+            </q>
+            <p>
+               <hi>Licens'd,</hi> Decemb. 12. 1692.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall,</hi> 1693.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44398:2"/>
+            <pb facs="tcp:44398:2"/>
+            <head>TO THE READER.</head>
+            <p>'TIS not my Design to Apologize in Writing a Preface, for some will think it as frivolous to excuse, as others will be unwilling to accept on't: And tho' my Reasons may be good, and means well, yet they'll rather believe I do't to gain applause, than out of a real notion of Honesty. 'Tho my chief intent is only to draw the affections of my own Party, as much as possibly I can to my assi<g ref="char:EOLhyphen"/>stance, that whenever my Adversaries shall make any appearance, I may be the better able to withstand their rash and inconsiderate force, and I'me sure their inve<g ref="char:EOLhyphen"/>terate and manifest hatred to my Cause, will make their Arguments prove of less Authority against me, for Ignorance and Malice being Sworn Brothers, are seldom or never found apart: Then what Wise Man will give his Opinion in favour of those two Antipodes to Virtue.</p>
+            <p>All, or most of the Gang boast of what Satisfaction and calmness of mind they enjoy, in preserving their Consciences free from the imposition of an unlawful Oath, when this, alas! is a Happiness far enough beyond their Sphere (as by their late Pri<g ref="char:EOLhyphen"/>vate Caballing has too plainly appear'd) then 'tis evident, that their aim reaches at nothing but Sedition, and Disturbance, which they are continually for<g ref="char:EOLhyphen"/>ging amongst us, and as often putting fresh Irons in the fire to accomplish their Designs; but all has hitherto prov'd ineffectual, and the Design has hardly been hot, before the Action has been cold. These are your <hi>Druid's</hi> Sons of the true Mo<g ref="char:EOLhyphen"/>ther Church, who would pull down her lofty head under a specious Pretence of rai<g ref="char:EOLhyphen"/>sing a more Stately Fabrick out of her Ruines.</p>
+            <p>As for the more vulgar sort, I rather conjecture them to be seduc'd through Igno<g ref="char:EOLhyphen"/>rance, and a blind Zeal, than any squeamish Fit of Conscience; and these two will have a share in acting their Parts, tho' it only be to keep them from being idle: Nay, some of them make it the Delight of their Souls to blast the Reputation of all Honest Men, and not only to lessen their Characters and Services, but to range them in the number of Publick Enemies; for they had rather a thousand times see the Government sink under Oppression, than have it thought that any other hand t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an their own has Courage or Honesty enough to save it, and Experience tells us, that when once the Gown-Men have Preach'd the People to Tinder, the least spark sets them on fire; so then they have nothing more to do, but to inculcate the Do<g ref="char:EOLhyphen"/>ctrine of Disobedience, and leave the Multitude to chew upon't.</p>
+            <pb facs="tcp:44398:3"/>
+            <p>I had not concern'd my self to have Writ on so mean a Subject, had I not re<g ref="char:EOLhyphen"/>ceiv'd very large Encouragement from some Gentlemen of my own Party, they tel<g ref="char:EOLhyphen"/>ling me, that by exposing their Faults, it might be a means to reclaim 'em, and bring 'em to a right sense of their Errour: These Perswasions alone wrought upon me, for I never was Ambitious of appearing in Print, more especially when our Age is so wonderful Critical, that each Spark assumes to himself the Priviledge of Damning, (and perhaps) for no other reason, than only reading an Emblem of his own Actions in the sense of a Line. Yet I hope, that some of you will prove of a more Candid Disposition, or leastwise more Judicious.</p>
+            <p>But if the <hi>Genius</hi> of my <hi>Poem</hi> attracts any accommodation, I don't doubt but it will tickle the Wounds of my Adversaries, and so far answer Expectation, as to please where it hurts most: And what Wise Man can be angry with another, who strives to make him smile against his Will; and even my Enemies must be Convinc'd, that I have very much rebated the edge of my <hi>Satire,</hi> in Relation to the Clergy, yet I could not forbear giving them a Gentile Gripe in my foregoing Paragraph; and tho' my <hi>Satire</hi> has shown them his Teeth by a forc'd grin, yet he has left them Laughing without a Wound.</p>
+            <p>'Twill be satisfaction enough if my Satirick Smiles please the more moderate sort; as for my Enemies, I expect nothing from 'em but Railings; for cer<g ref="char:EOLhyphen"/>tainly their applause must be extorted; and whenever it comes, it's like the Melody of <hi>Syrens,</hi> who Sing, not to stir up Mirth, but to draw you into farther Misfortunes.</p>
+            <q>Impia sub Dulci melle venena latent.</q>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:44398:3"/>
+            <head>A SATIRE Upon the TOWN, &amp;c.</head>
+            <lg>
+               <l>WIth Calm Retirement, Peace, and Plenty Blest,</l>
+               <l>Of all the Wise Man's wish'd for Wealth Possest:</l>
+               <l>Of Care disburthen'd, and remov'd from Noise,</l>
+               <l>Incumber'd only with a Crow'd of Joys:</l>
+               <l>Puzl'd at nothing, but your self to please,</l>
+               <l>Wrap'd up in sweet Security, and Ease;</l>
+               <l>Sound Sleep at Nights, and welcom Toyls on Days!</l>
+               <l>What fond Desire invades my good Old Friend,</l>
+               <l>To quit the Choicest Blessings Heav'n can send?</l>
+               <pb n="2" facs="tcp:44398:4"/>
+               <l>With just Disdain, and Indignation fir'd,</l>
+               <l>How oft you've wish'd, you nothing more desir'd,</l>
+               <l>Than to Possess that Portion of Estate,</l>
+               <l>Which God had giv'n, in an obscure Retreat:</l>
+               <l>Where far from this Infested Nauseous Town,</l>
+               <l>You might have room to think, and be alone:</l>
+               <l>Yet, sick of Ease, and cloy'd with that Delight,</l>
+               <l>So Courted once, and wish'd for: Now you Write,</l>
+               <l>"The Country Air is wholsom, sweet, and pure,</l>
+               <l>"'Tis true, but you're in Health, and need no Cure;</l>
+               <l>"Innocent, and free, you grant the Rural Sport,</l>
+               <l>"Yet but insipid, when Compar'd to Court.</l>
+               <l>"Woods, Rivers, Dogs, and Hawks, make poor amends</l>
+               <l>"For loss of Wit, and Company of Friends.</l>
+               <l>"O! the Sprightly Time, those Days of Mirth,</l>
+               <l>"And Nights of Love! when ev'ry hour gave birth</l>
+               <l>"To New Delights, when not a minute flew,</l>
+               <l>"But follow'd Joys, or Joy did it pursue.</l>
+               <pb n="3" facs="tcp:44398:4"/>
+               <l>"With Wine, and Chearful Friends, encompass'd round,</l>
+               <l>"Unlimited we all our Pleasures found,</l>
+               <l>"Our Wine no measure knew, our Wit no bound.</l>
+               <l>"Not we on Time, but Time on us did wait,</l>
+               <l>"The Day rose early, and the Night watch'd late;</l>
+               <l>"Night did not end, nor did the Day begin</l>
+               <l>"Our Play of Mirth, but only chang'd the Scene.</l>
+            </lg>
+            <lg>
+               <l>Thus, you relate, with Pleasure, Pleasures past,</l>
+               <l>Which, eagerly, again you long to tast.</l>
+               <l>But, ah! my Friend, those Golden Days are flown,</l>
+               <l>And barely the remembrance now's our own;</l>
+               <l>Remembrances of joys, which adds this Curse</l>
+               <l>To loss of better Days; deep sense of worse,</l>
+               <l>Swiftly we follow'd, what too swiftly ran,</l>
+               <l>And though each hour urg'd the foregoing on:</l>
+               <l>We added Spurs to Youth's too fiery Prime,</l>
+               <l>And fleeting Pleasure imp'd the wings of Time.</l>
+               <pb n="4" facs="tcp:44398:5"/>
+               <l>Our gaudiest Plumes, his Hoary Pinions drest,</l>
+               <l>With Youth we did his Aged Limbs Invest.</l>
+               <l>From unfledg'd Loves, the tender Down we clip'd,</l>
+               <l>Wits Soaring Quil, and Mirths gay feather strip'd;</l>
+               <l>And all to flatter Time, and make him fine,</l>
+               <l>We spill'd his Sand, and fill'd his Glass with wine:</l>
+               <l>Ten Thousand other Arts we did Essay,</l>
+               <l>Try'd all Allurements to beguile his stay,</l>
+               <l>And yet he stole insensibly away.</l>
+               <l>Ungrateful he, for all our favour shown,</l>
+               <l>Fraught with the Spoil, is treacherously flown;</l>
+               <l>While we of Beauty, Youth, and Love bereft,</l>
+               <l>To VVrinkles, Age, and Impotence are left.</l>
+               <l>Yet in the Even of our Life, and when</l>
+               <l>VVe see our setting Sun, we turn agen:</l>
+               <l>And oft review th' immensity of space,</l>
+               <l>So late enlighten'd by his Chearful Rays,</l>
+               <pb n="5" facs="tcp:44398:5"/>
+               <l>Sadly we mourn the great decay of Light,</l>
+               <l>'Till equally at last, depriv'd of Sight,</l>
+               <l>VVe sink in silence of Eternal Night.</l>
+               <l>Thus an unhappy wretch, when set adrift,</l>
+               <l>No help of Sails, or Oars, or Tackling left;</l>
+               <l>Views with desparing Eyes, the much lov'd Shore,</l>
+               <l>And which, he shortly must behold no more:</l>
+               <l>Midst of his horrour, vainly thinks upon</l>
+               <l>Those past Delights his bleeding Soul has known.</l>
+               <l>Feeds his fix'd Eyes with the still less'ning Coast,</l>
+               <l>'Till out of sight, by ebbing Billows tost,</l>
+               <l>He yields to Fate, and suffers to be lost.</l>
+            </lg>
+            <lg>
+               <l>So we, dear Friend, when hurry'd down the stream,</l>
+               <l>Turn both our Eyes and VVishes back in vain;</l>
+               <l>Shrunk with degenerate Age, in vain we reach,</l>
+               <l>With dying hands, at high-flown Joys to catch:</l>
+               <pb n="6" facs="tcp:44398:6"/>
+               <l>Nature, in all things else, has ebbs, and flows,</l>
+               <l>What Autumn withers, with the next Spring grows,</l>
+               <l>But, Life, alas! once ebb'd, no reflux knows.</l>
+               <l>Yet, could I by unpresidented Art,</l>
+               <l>Fresh Youth, and Vigour to my Limbs impart;</l>
+               <l>Might I, again repeat my stint of Days,</l>
+               <l>And like th' immortal Bird, from embers raise</l>
+               <l>New vital flame; I would refuse to live:</l>
+               <l>That Mightiest, most priz'd Boon, which Fate can give,</l>
+               <l>I would despise, if with it 'twere enjoyn'd,</l>
+               <l>My Life should be to this Curs'd Town Confin'd:</l>
+               <l>Not I, by Heav'n, I'de not be brib'd by Fate,</l>
+               <l>So much the busie Factious Place I hate.</l>
+            </lg>
+            <lg>
+               <l>The Town! if Heav'n had no more mercy for't,</l>
+               <l>'Thad long since been to its hot Vengeance sport:</l>
+               <l>Long since, 'thad glow'd with the same Punishment,</l>
+               <l>Its Predecessor <hi>Sodom</hi> underwent.</l>
+               <pb n="7" facs="tcp:44398:6"/>
+               <l>That Towring heighth, which more each day appears,</l>
+               <l>As if it took increase from Orphan's Tears,</l>
+               <l>The Cries of VVidows, and the wrongs of Heirs.</l>
+               <l>Had long ago, in humble ruines bow'd,</l>
+               <l>Her ruine best her guilty head can shrow'd.</l>
+            </lg>
+            <lg>
+               <l>Where Treasons, Plots, and Factions hourly grow,</l>
+               <l>VVhence all Malignant Pois'nous Humours flow:</l>
+               <l>As from the Ocean, hence all take their Rise,</l>
+               <l>VVhose Streams supply the Country still with Vice;</l>
+               <l>And having spread Contagion round the Earth,</l>
+               <l>Back to that Womb return, which gave 'em Birth.</l>
+               <l>Where new Divisions, Sects, and Heresies,</l>
+               <l>Religious Schisms, and State Conspiracies</l>
+               <l>Are daily forg'd, where all the murm'ring Tribe,</l>
+               <l>Repiners at the Government reside.</l>
+               <l>Where all those Snarling, Mercenary Curs,</l>
+               <l>The Gang of <hi>Pamphleteers,</hi> and <hi>Libellers</hi>
+               </l>
+               <pb n="8" facs="tcp:44398:7"/>
+               <l>Are fed, a tingling Vermin, which foment</l>
+               <l>The Epidemick Itch of Discontent:</l>
+               <l>A Pack of Slaves, that shall for Half a Crown,</l>
+               <l>Their King, their Country, or their God disown:</l>
+               <l>Prepar'd alike, for any Cause to VVrite,</l>
+               <l>As Lawyers Plead for Pelf, and <hi>Switzers</hi> Fight.</l>
+               <l>These, with that restless, and uneasie Crew,</l>
+               <l>VVho ever are for Setling Things anew,</l>
+               <l>VVhose Principle is always to Dissent</l>
+               <l>(VVhat e'er it be) from th' Present Government:</l>
+               <l>Of all the Plagues that do infest the Town,</l>
+               <l>These the most insupportable are grown.</l>
+               <l>These are your Men of Conscience, and of Zeal,</l>
+               <l>Still Lab'ring for the good o'th' Commonweal;</l>
+               <l>Champions, who set the Church and Nation free</l>
+               <l>From Arbitrary Pow'r, and Popery:</l>
+               <l>In this, they did Unanimously joyn,</l>
+               <l>Nay, these were foremost in the Grand Design.</l>
+               <pb n="9" facs="tcp:44398:7"/>
+               <l>Prest on to be the first o'th' numerous Tribe,</l>
+               <l>VVho did their Titles, or their Names subscribe;</l>
+               <l>But who expects a Violence should last?</l>
+               <l>These Men outran their Consciences for haste;</l>
+               <l>And now, as eagerly turn back, to find</l>
+               <l>The little Puling thing they left behind.</l>
+               <l>So an ill tepmer'd String, when wound so high,</l>
+               <l>To pass the due degree of Harmony;</l>
+               <l>Unable the immoderate stretch to bear,</l>
+               <l>Snaps, and shrinks back, in an unseemly jarr.</l>
+            </lg>
+            <lg>
+               <l>"Bless us, what's here! we're finely trap'd (says one)</l>
+               <l>"While one extream industriously we shun,</l>
+               <l>"We've unawares into another run.</l>
+               <l>"We are from <hi>Romish</hi> Superstition freed,</l>
+               <l>"But here's (what's worse) Presbyt'ry to succeed:</l>
+               <l>"Han't we just reason still to be afraid?</l>
+               <l>"What's that but Popery in Masquerade?</l>
+               <pb n="10" facs="tcp:44398:8"/>
+               <l>"This is falling from Purgat'ry, to Hell:</l>
+               <l>"The Patient's ill at ease, whom Doctors tell,</l>
+               <l>"A stronger Poison must the weak expel.</l>
+            </lg>
+            <lg>
+               <l>A desp'rate Cure, 'tis true, but I'de fain hear</l>
+               <l>What Remedy your wisdom would prepare:</l>
+               <l>You, who with discretion hold the Scale,</l>
+               <l>And ballance both Extreams with temp'rate Zeal,</l>
+               <l>Whose Curious Prying Conscience can descry</l>
+               <l>The Subtle Ambushes of Popery:</l>
+               <l>And therefore won't <hi>Jack Presbyter</hi> admit,</l>
+               <l>For fear his Cloak should hide a Jesuit,</l>
+               <l>Yet would the Int'rest of your Church advance,</l>
+               <l>By basely truckling to the Pow'r of <hi>France.</hi>
+               </l>
+               <l>Profound Device! O what a Charm have we,</l>
+               <l>To keep us safe from Popish Tyranny!</l>
+               <l>O too too happy we, who can pretend</l>
+               <l>To have the Mighty Christian King our Friend!</l>
+               <pb n="11" facs="tcp:44398:8"/>
+               <l>Who would not flye on wings of Joy, to meet</l>
+               <l>Divine Protection, at his Royal Feet?</l>
+               <l>That Greatest, Justest, and most Valiant King,</l>
+               <l>To whom the World e're long must Tribute bring!</l>
+               <l>Whose Bounteous Mercies flow so very fast,</l>
+               <l>That e're we can receive 'em, they'l be past.</l>
+               <l>In time then let's our humble Offers make,</l>
+               <l>And swift Occasion by the fore-lock take;</l>
+               <l>Call home again our Abdicated Prince,</l>
+               <l>VVho has been taught to Govern better, since</l>
+               <l>That Glorious Awful President he saw,</l>
+               <l>Of him, whose <hi>Will</hi> he ever made his Law.</l>
+               <l>In Gentler Rule Instructed, and Mild Arts,</l>
+               <l>He will again redeem his Subjects Hearts.</l>
+               <l>No Laws Infring'd, nor no Dispensing Pow'r,</l>
+               <l>Nor Q—nor Priest, shall ever ride him more.</l>
+               <l>Nought shall be seen, but Acts of Grace, and Love,</l>
+               <l>No Scepter Sway'd, beside the Peaceful Dove.</l>
+               <pb n="12" facs="tcp:44398:9"/>
+               <l>Then shall our British Isles look glad again,</l>
+               <l>And <hi>J—</hi>subordinate to <hi>Lewis</hi> Reign:</l>
+               <l>By his Advice alone the Helm shall Steer,</l>
+               <l>Guided by his Direction, who can fear?</l>
+               <l>From whose unbounded, and indulgent stone,</l>
+               <l>Blessings on us incessantly shall show'r.</l>
+               <l>Blessings, perhaps not so to vulgar Sense,</l>
+               <l>(He does uncommon Benefits Dispense;)</l>
+               <l>But Wise Religious Heads know well what's meant</l>
+               <l>By all the various Plagues from Heaven sent:</l>
+               <l>Can find the Tokens of Divine Affection,</l>
+               <l>In the severest smart of due Correction.</l>
+               <l>I'll fetch a Doctor straight, shall find ye out</l>
+               <l>A hundred Blessings in one Fit o'th' Gout.</l>
+               <l>So Royal Persecution is expedient,</l>
+               <l>To prove Good Subjects Passively Obedient</l>
+               <l>Such are th' endearing Motives which perswade,</l>
+               <l>T'invite the Christian Monarch to out aid.</l>
+               <pb n="13" facs="tcp:44398:9"/>
+               <l>He'll Health, and Safety to the Nation bring,</l>
+               <l>No worse Physician, than he is a King.</l>
+               <l>Can Kingdoms Constitutions understand,</l>
+               <l>And feel how Pulses beat, through all the Land.</l>
+               <l>Can sure Prescriptions give, knows when 'tis good,</l>
+               <l>To Purge the Realm, or Let it Blood.</l>
+               <l>Cures Fester'd Heresies by Ampulation,</l>
+               <l>Can Cauterize too, when there is occasion.</l>
+               <l>And has Administred (they say) to some</l>
+               <l>The Meritorious Crown of Martyrdom:</l>
+               <l>Who but for him, perhaps had ne'er attain'd</l>
+               <l>That Heav'n, their former Wicked Lives Prophan'd.</l>
+               <l>Who can refuse, subjection to embrace,</l>
+               <l>To one Endow'd with this Soul-saving Grace?</l>
+               <l>How Foolish are the Fears of those, who think,</l>
+               <l>Our Church shall under <hi>Rome</hi>'s Oppression sink?</l>
+               <l>There's none on's all so Ignorant (I hope,)</l>
+               <l>But knows, the <hi>French</hi> King never lov'd the Pope.</l>
+               <pb n="14" facs="tcp:44398:10"/>
+               <l>Then sure for th' under Tribe, the Priests, and Friers,</l>
+               <l>He'll readily comply with our Desires;</l>
+               <l>And give us Pow'r to sweep 'em forth the Land,</l>
+               <l>They dare not Disobey, if he Command.</l>
+               <l>Through him, we'll all their blackest Treasons quell,</l>
+               <l>Through him, the Damn'd Contrivers all expell,</l>
+               <l>So Cast out Devils, through the Prince of Hell.</l>
+               <l>Unthinking Crowd, is this the mighty end</l>
+               <l>You aim at, this the Conscience you pretend?</l>
+               <l>Would you by this means have it understood,</l>
+               <l>How Z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alously you wish your Country's Good?</l>
+               <l>What, then is this the Loyal Party's Cause?</l>
+               <l>Our Sticklers for Religion, and the Laws?</l>
+               <l>Our High-flown Church-men, who are Protestants,</l>
+               <l>Against the Church of <hi>Rome,</hi> but not of <hi>France;</hi>
+               </l>
+               <l>They've taught their stubborn Zeal more complaisance,</l>
+               <l>Would they with this poor shallow Artifice,</l>
+               <l>Conceal their little Treacherous Device?</l>
+               <pb n="15" facs="tcp:44398:10"/>
+               <l>Alas! these Holy Shams are out of Date,</l>
+               <l>Religion, now is grown too stale a Cheat.</l>
+               <l>(Though much we've suffer'd for't, tho dearly bought)</l>
+               <l>We have at length the useful Knowledge got.</l>
+               <l>The Cunning'st Noted Sharper, heretofore</l>
+               <l>Has been the arrant'st Cully to his Whore.</l>
+               <l>The Topping Bullies now, though ne'er so Stout,</l>
+               <l>Have all, (or most) been Cowards, beaten to't.</l>
+               <l>Then sure 'twere hard on us, if we alone,</l>
+               <l>Should be so many several times undone,</l>
+               <l>Yet end as arrant Fools, as we begun.</l>
+               <l>Who've known the great variety of tast,</l>
+               <l>Such Pious Seeds produc'd, for Ages past,</l>
+               <l>Should now be caught our selves, with Chaff at last.</l>
+               <l>What but Jesuitical Impudence,</l>
+               <l>Durst e'er impose so grosly on the Sense:</l>
+               <l>As if we could live ignorant o'th' Trade,</l>
+               <l>Where so many Religions have been made.</l>
+               <pb n="16" facs="tcp:44398:11"/>
+               <l>But hold! don't Judge too rashly, we may find</l>
+               <l>Several, whose Purposes are well inclin'd;</l>
+               <l>Who have no aim beyond the Publick Good,</l>
+               <l>How e'er it happens they're mis-understood.</l>
+               <l>What, though the Means and Methods they pursue,</l>
+               <l>Are all Erroneous, still their Zeal is true.</l>
+               <l>For, if Ignorance, (as we all on's know)</l>
+               <l>The Parent be, whence Piety doth flow,</l>
+               <l>Then Errour, truest Signs of Zeal does show.</l>
+            </lg>
+            <lg>
+               <l>Why this we would have granted, to the few</l>
+               <l>Well-meaning Harmless Souls; but the Damn'd Crew</l>
+               <l>Of Discontented Statesmen, kick'd from place</l>
+               <l>Of High Preferment, to profound Disgrace;</l>
+               <l>Of Politicians baulk't in full Career,</l>
+               <l>And Trap't Cock-sure, just when they left to fear:</l>
+               <l>Their Interest then hurrying on amain,</l>
+               <l>I'th' troubled Deluge of the Latter Reign:</l>
+               <pb n="17" facs="tcp:44398:11"/>
+               <l>Whose Rapid Torrent held a four years Course,</l>
+               <l>With an unusual, and resistless force;</l>
+               <l>Raising aloft, by its impetuous flood,</l>
+               <l>The Groveling Eels, Inhabiters of Mud.</l>
+               <l>Who, awkardly a while, o'th' Surface play'd,</l>
+               <l>And did the Nobler Element invade.</l>
+               <l>'Till an all-powerful Calm, unlook'd for came,</l>
+               <l>And still'd the angry Billows of the Stream:</l>
+               <l>Whose clearness when recover'd, did affright</l>
+               <l>With Lucid Waves, those Fishes of the Night;</l>
+               <l>Asham'd they slunk into their Native Clay,</l>
+               <l>As Owls, or Goblins fly th' approach of Day.</l>
+               <l>These can't pretend, (we reas'nably suppose)</l>
+               <l>Loss of Religion, who had none to lose.</l>
+               <l>Sure Statesmens Consciences are better known,</l>
+               <l>A Statesmans Conscience, when his Int'rest's gone!</l>
+               <l>Not Usurers, when privacy affords</l>
+               <l>With safe Extortion, to encrease their Hoards:</l>
+               <pb n="18" facs="tcp:44398:12"/>
+               <l>Not Lawyers, when light Titles are supply'd</l>
+               <l>With weighty Gold, to poise the juster side;</l>
+               <l>Not <hi>Fleet street</hi> Whores, when Wine and Sleep conspire,</l>
+               <l>To lull within their Arms, a Golden Squire;</l>
+            </lg>
+            <lg>
+               <l>Not a Religio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Praying, Whining Cit,</l>
+               <l>When with most Zeal, he plays the Hypocrite,</l>
+               <l>And has gain'd your good esteem; nay farther,</l>
+               <l>Not Jesuits, when to advance their Order,</l>
+               <l>More Naturally, or with less regret,</l>
+               <l>The then unnecessary trifle quit.</l>
+            </lg>
+            <lg>
+               <l>Yet, these are Leaders, of the Pious Band,</l>
+               <l>The Conscientious Patriots of the Land!</l>
+               <l>To these their Troop of <hi>Parasites</hi> succeed,</l>
+               <l>Poor Scoundrels, who are <hi>Jacobites</hi> for need;</l>
+               <l>These are the humble Creatures, of their Lords,</l>
+               <l>Who shit 'em in what form they please like T—</l>
+               <pb n="19" facs="tcp:44398:12"/>
+               <l>Fellows, that for Dinners, and an old Coat,</l>
+               <l>Shall be of any side, give any Vote,</l>
+               <l>Like Ecchoes, only having Voice, by rote.</l>
+               <l>Next approach, (and these indeed sit heavy)</l>
+               <l>All the discontented Tribe of <hi>Levy;</hi>
+               </l>
+               <l>From these, the Cause has greatest Assistance,</l>
+               <l>For they defend it, with <hi>Non-Resistance.</hi>
+               </l>
+               <l>Nay they bring Bigots too, for 'tis much fear'd,</l>
+               <l>A scabby Pastor, does infect his Herd,</l>
+               <l>These, Sanctifie Rebellion with the Church;</l>
+               <l>They'l hook in that, though they leave it ith' lurch.</l>
+            </lg>
+            <lg>
+               <l>Bless us, an Oath impos'd! that's too severe,</l>
+               <l>Must Holy Men against their Conscience Swear?</l>
+               <l>Poor Hearts! A bitter Pill, they can't digest,</l>
+               <l>Priests were not more digusted at the Test.</l>
+               <l>Yet some have swallow'd it, and not been Sick,</l>
+               <l>Oh! when 'twas guilded with a Bishoprick.</l>
+               <pb n="20" facs="tcp:44398:13"/>
+               <l>I, marry Sir, could we have allbei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prelates,</l>
+               <l>There had been but few Dissenting Zealots,</l>
+               <l>But 'stead of that, here several we find,</l>
+               <l>Who for the Lawn and Mitre, were design'd:</l>
+               <l>And after they'd agreed to Cov'nants made,</l>
+               <l>That any <hi>Declaration,</hi> should be Read</l>
+               <l>In their precincts, to make which Contract fast,</l>
+               <l>
+                  <hi>REGIS &amp; SACERDOTIS VERBƲM,</hi> past.</l>
+               <l>'Midst of these Hopes they had to mount a Throne,</l>
+               <l>Just when aspiring to't were tumbled down.</l>
+               <l>Beside a Number of th' inferiour Sort,</l>
+               <l>All who had bought fair Promises at Court,</l>
+               <l>Nay some more forward too, had paid the Price,</l>
+               <l>To be install'd in a Fat Benefice,</l>
+               <l>And had engag'd their Consciences, to stretch</l>
+               <l>To all that was enjoyn'd 'em for to Preach;</l>
+               <l>And who at Under-rates could not agree,</l>
+               <l>Laid out their very Souls in Simony.</l>
+               <pb n="21" facs="tcp:44398:13"/>
+               <l>Yet after all (were ever Men so crost!)</l>
+               <l>To be from these fair hopes o'th' sudden tost,</l>
+               <l>To be surpriz'd by a Revolution</l>
+               <l>That has hudl'd all things in confusion.</l>
+               <l>Were ever Politicians so expos'd!</l>
+               <l>T' have all their Pious purposes disclos'd,</l>
+               <l>And they themselves, condemn'd to be perplex'd</l>
+               <l>In this World, who have forfeited the next.</l>
+               <l>Would not this fire a Saint, make patience hot?</l>
+               <l>Who, but would Swear at this? (so, it were not</l>
+               <l>For th' Government,) and vow to wreak Revenge,</l>
+               <l>On all who wrought the unexpected change.</l>
+            </lg>
+            <lg>
+               <l>I own, I think the Doctors are i'th' right,</l>
+               <l>What e're provok'd the Rev'rend <hi>S—s</hi> spight,</l>
+               <l>To give 'em that malicious Publick hint,</l>
+               <l>(The Sermon, (if I erre not) is in Print)</l>
+               <pb n="22" facs="tcp:44398:14"/>
+               <l>When openly he stuck not to declare,</l>
+               <l>No <hi>Jacobite</hi> could utter the Lord's Pray'r,</l>
+               <l>But, thence as much debarr'd as Witches are.</l>
+               <l>This was severe, from one, who not long since,</l>
+               <l>Right Reason had the power to Convince.</l>
+               <l>But, let the Sacred Herd, unpunish'd pass,</l>
+               <l>Heav'n in time may bless 'em with more Grace;</l>
+               <l>If not, yet gently may they spin their days,</l>
+               <l>Grow fat, by being Silenc'd and at Ease.</l>
+            </lg>
+            <lg>
+               <l>Next, does the medly of the Cause advance,</l>
+               <l>An indigested Chaos, wrought by chance,</l>
+               <l>To an ill-form'd Union; if that can be,</l>
+               <l>Union, whose parts though joyn'd yet disagree.</l>
+               <l>For diff'rent Reasons, these abhor the State,</l>
+               <l>In nothing sympathizing, but in hate.</l>
+               <l>So Men of barb'rous Tempers, become Friends;</l>
+               <l>Such, each Man's Spleen, toth' tother recommends:</l>
+               <pb n="23" facs="tcp:44398:14"/>
+               <l>No Sense of worth, does their Affection move,</l>
+               <l>But, for they hate alike, each other Love.</l>
+            </lg>
+            <lg>
+               <l>For some, who prudently resolv'd to wait,</l>
+               <l>And watch th' uncertain end of lab'ring Fate:</l>
+               <l>Not knowing on the suddain, which way, best</l>
+               <l>They might establish their own Interest;</l>
+               <l>Till from the Series of Success, they learn'd,</l>
+               <l>Th' Almighty's self, was in the work concern'd;</l>
+               <l>Then, would have truckl'd to the stronger Sway,</l>
+               <l>As unsteer'd Ships the ruling winds obey.</l>
+               <l>But tottering unsteady Barks, (like these)</l>
+               <l>Are only sport, toth' Soveraign of the Seas;</l>
+               <l>From his Auspicious Care, and Charge exempt,</l>
+               <l>Deservedly were Shipwrack'd on Contempt.</l>
+               <l>Their Needy, forc'd compliance with the State,</l>
+               <l>Like Death-beds scorn'd Repentance came too late.</l>
+               <pb n="24" facs="tcp:44398:15"/>
+               <l>So these, like Lewd Expiring Sinners fare:</l>
+               <l>Alike refus'd the benefit of Pray'r,</l>
+               <l>Are <hi>Jacobites,</hi> and <hi>Scoundrels,</hi> through Despair.</l>
+               <l>To th' slighted Fools, succeed young Fops a store,</l>
+               <l>Things who ne're were of any side before;</l>
+               <l>But being told, that they'll be look'd upon</l>
+               <l>As Men of Honour, and Religion:</l>
+               <l>To joyn the weak, shows a Generous Spirit,</l>
+               <l>Their Enemies must own, that speaks some Merit:</l>
+               <l>And if (as who can tell what may fall out)</l>
+               <l>Another Revolution come about;</l>
+               <l>They'r fair to be made Great Men, which 'tis plain</l>
+               <l>They'r never like to be in this King's Reign.</l>
+               <l>So th' young Gentleman, willing to be known,</l>
+               <l>By being o'th' wrong side, rather than of none,</l>
+               <l>Embraces straight the Cause, and is Preferr'd</l>
+               <l>To th' Top Acquaintance, of the Grumbling Herd.</l>
+               <pb n="25" facs="tcp:44398:15"/>
+               <l>Grows Learn'd o'th' suddain, in Intrigues of State,</l>
+               <l>Can Politickly Argue, and Debate</l>
+               <l>Th' unhappy Case of Kings who Abdicate.</l>
+               <l>God's Judgements for Rebellion, much he fears,</l>
+               <l>Then falls a railing at the Court, and Swears,</l>
+               <l>There's no living, 'til the King Relaxes</l>
+               <l>Some of these Intollerable Taxes;</l>
+               <l>He vows to God, he shall be quite undone,</l>
+               <l>That all his Tenants, in arrears are run,</l>
+               <l>Once he'd a Leash of Whores, now keeps but one.</l>
+               <l>Nor has he Money left, to engage her</l>
+               <l>To stay, did not now at then a Wager</l>
+               <l>Hit, which comes from his being well inform'd</l>
+               <l>Which Towns will be held out, and which be storm'd.</l>
+               <l>What Sieges to be laid, what rais'd, who slain,</l>
+               <l>And all that is to happen this Campaign.</l>
+               <l>Witness the swinging Stakes were won on <hi>Mons,</hi>
+               </l>
+               <l>
+                  <hi>Athlone</hi> 'tis true's a little hard upon's;</l>
+               <pb n="26" facs="tcp:44398:16"/>
+               <l>Though there, we did not lose on Information.</l>
+               <l>But the Damn'd brittle Valour of that Nation,</l>
+               <l>Which having Curs'd, with lift up Hands, and Eyes,</l>
+               <l>H' extols the <hi>Gallick</hi> Prowess to the Skies;</l>
+               <l>And takes occasion thence, to tell how much,</l>
+               <l>The Frothy <hi>French</hi> excell the muddy <hi>Dutch.</hi>
+               </l>
+               <l>But here the Parly 'gins to feel decrease,</l>
+               <l>Like resty Jade, at fag end of a Race,</l>
+               <l>The ill-bred Causes Vigour sinks apace.</l>
+               <l>Just thus, a Vessels emptiness we know,</l>
+               <l>The poor expiring Cask, w'are sure runs low,</l>
+               <l>Once Dregs, and fulsom Lees begin to flow.</l>
+               <l>Should I, all the unhallow'd Rout Rehearse,</l>
+               <l>'Twere to debase the Dignity of Verse.</l>
+               <l>Yet hold—a Chief Ingredient I'de forgot,</l>
+               <l>Nay, the very Life, Blood and Soul o'th' Plot.</l>
+               <l>O'th' Tender Charming Sex, a goodly throng,</l>
+               <l>To whom a num'rous Train of <hi>Beans</hi> belong;</l>
+               <pb n="27" facs="tcp:44398:16"/>
+               <l>These, with attractive Art, lead up and down</l>
+               <l>By th' Noses, all the Smock Hero's of the Town:</l>
+               <l>And form the Mightiest Parties for the Cause,</l>
+               <l>For you know what, more than Ten Oxen draws.</l>
+               <l>Then, in their number, they exceed all measure,</l>
+               <l>All that are Whores, whether for Need, or Pleasure.</l>
+               <l>Are <hi>Jacobites,—</hi>
+               </l>
+               <l>From keeping Countess in Embroyder'd Sattin,</l>
+               <l>Down to the humble trudging Punk in Patten.</l>
+               <l>For as foremention'd Politicians, hate</l>
+               <l>An uncorrupted and well-govern'd State;</l>
+               <l>So these abhor (and who can blame 'em for't)</l>
+               <l>The Vertuous Reformation, in the Court.</l>
+               <l>Oh! 'twas a Damn'd Malicious Reformation,</l>
+               <l>Just then to come, when Sin was grown in fashion;</l>
+               <l>A little more, they might have don't bare-fac'd,</l>
+               <l>Without the paultry fear of being disgrac'd:</l>
+               <l>If Cuckoldom had met with plain Conviction,</l>
+               <l>They might have pleaded Title of Prescription.</l>
+               <pb n="28" facs="tcp:44398:17"/>
+               <l>But now again, 'tis e'en a Scandal grown,</l>
+               <l>To Lie with any's Husband but ones own.</l>
+            </lg>
+            <lg>
+               <l>Hard Fate! I'me sure, however things are settl'd,</l>
+               <l>The Ladies have just reason to be nettl'd;</l>
+               <l>Whatever Rights or Laws may be secur'd,</l>
+               <l>They bear a hardship scarce to be endur'd:</l>
+               <l>Their Int'rest, and Religion's sure to fall,</l>
+               <l>If Pleasure sink, Pleasure to them is all.</l>
+               <l>With Liberty of Conscience, they'll Dispense</l>
+               <l>At any time, for Liberty of Sense</l>
+               <l>But that confin'd, a dreadful Grievance brings,</l>
+               <l>Ne'er felt, ith' Reigns of late departed Kings.</l>
+               <l>Ah! then were Joyous Days, when <hi>Coelia</hi>'s Charms,</l>
+               <l>Cou'd Mold the Waxen Monarch in her Arms:</l>
+               <l>No interruption came from rude Alarms.</l>
+               <l>No noise of War to break the Soft Embrace,</l>
+               <l>Loves Tents, alone were pitch'd in Fields of Peace.</l>
+               <pb n="29" facs="tcp:44398:17"/>
+               <l>Alas! what Alterations do we feel,</l>
+               <l>A Warlike Hero, Clad in rugged Steel,</l>
+               <l>Now Rules, whose too aspiring Soul's above</l>
+               <l>The low Inglorious flights of short-wing'd Love.</l>
+               <l>Our Darling Joys, he hence has taken far,</l>
+               <l>And all our ablest Youth debauch'd to VVar.</l>
+               <l>VVhile we, (ah! sure no harder Tax can be)</l>
+               <l>Are forc'd to pay the Mulct of Chastity.</l>
+               <l>Ah there's the Grief, and 'tis a dismal Case,</l>
+               <l>To see what Shifts poor Hearts make now a-days;</l>
+               <l>To see a Young and Tender Creature lye,</l>
+               <l>Melting in thought of Am'rous Extasie;</l>
+               <l>Her Morning Beauties glowing through desire,</l>
+               <l>Her Eyes, her Blood, her very Soul on fire</l>
+               <l>To tast the Bliss, when finding no relief,</l>
+               <l>She kicks, and gnaws the harmless Sheets for Grief.</l>
+               <l>'Till grown impatient of the tingling Smart,</l>
+               <l>Nature inflam'd, she Mollifies by Art.</l>
+               <pb n="30" facs="tcp:44398:18"/>
+               <l>These Hardships justly weigh'd, who can forbear</l>
+               <l>To take the part of the much injur'd Fair?</l>
+               <l>Were I endu'd with a Good-Natur'd Muse,</l>
+               <l>I swear I'de write a Quire in their excuse.</l>
+            </lg>
+            <lg>
+               <l>But now, Dear Friend, there is some Respite due</l>
+               <l>Both to my Foundred <hi>Pegasus,</hi> and you.</l>
+               <l>With an uneven, dull and heavy patie,</l>
+               <l>I've whipt him through these dirty rugged ways;</l>
+               <l>Now trotting, now stumbling, now and then starting,</l>
+               <l>Sometimes asleep, then lashing out and F—ting.</l>
+               <l>Seeing his scurvy Tricks, I think it fitter.</l>
+               <l>To Set him up, give him his Oats, and Litter,</l>
+               <l>Than Spur him on, in an unpleasant Road,</l>
+               <l>Up to the Saddle Skirts, each step in Mud.</l>
+               <l>For should I strive to tell those many Scores</l>
+               <l>Of Sycophants, discarded Pimps, and Whores,</l>
+               <l>With useless Bawds, now all turn'd out of doors.</l>
+               <pb n="31" facs="tcp:44398:18"/>
+               <l>Of Affidavit-Men, and Knights o'th' Post,</l>
+               <l>And all the Devil's Factors, who have lost</l>
+               <l>Their Trade at Court, with that fair Correspondence</l>
+               <l>Which seem'd to be so firmly fix'd not long since.</l>
+               <l>'Twere endless Labour, I as soon might tell,</l>
+               <l>How many Fools on Earth, or Fiends in Hell.</l>
+               <l>If what I've said already, ben't of Force</l>
+               <l>To stop your rash and inconsiderate Course;</l>
+               <l>If you too deaf to all Advice are grown,</l>
+               <l>That (Maugre all these Plagues,) you'll come to Town;</l>
+               <l>Whatever Cross, or Mischief, thence is bred,</l>
+               <l>Be all the guilt alone upon your head;</l>
+               <l>VVhatever Torments, Cares, or Pains ensue,</l>
+               <l>Be justly all ascrib'd (alone) to you;</l>
+               <l>I've done my part, and can no more, Adieu.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:44398:19"/>
+            <head>ERRATA.</head>
+            <p>PAge 9. line 7. for <hi>tepmer'd,</hi> read <hi>temper'd.</hi> p. 11. l. 13. for <hi>instructed,</hi> r. <hi>indulg'd.</hi> for <hi>Mild,</hi> r. <hi>Milder.</hi> p. 16. l. 15. for <hi>they left to,</hi> r. <hi>they'd lost their.</hi>
+            </p>
+            <pb facs="tcp:44398:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
